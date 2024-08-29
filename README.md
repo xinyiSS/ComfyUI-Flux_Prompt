@@ -1,4 +1,4 @@
-# Flux Prompt Enhance
+# Flux Prompt  
 
 Flux Prompt Enhance 是一个用于生成高质量 Prompt 的工具，适用于 ComfyUI 环境。该项目基于 gokaygokay 和 fairy-root 的开源工作，支持在中文语境下生成更符合需求的 Prompt。
 
