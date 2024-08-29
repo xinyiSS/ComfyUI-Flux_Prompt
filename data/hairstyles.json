@@ -1,0 +1,330 @@
+[
+    {
+        "en": "with (long hair)",
+        "zh": "（长发）"
+    },
+    {
+        "en": "with (very curly hair)",
+        "zh": "（头发非常卷曲）"
+    },
+    {
+        "en": "with (curly hair)",
+        "zh": "（卷发）"
+    },
+    {
+        "en": "with (pixie cut hair)",
+        "zh": "（精灵短发）"
+    },
+    {
+        "en": "with (bob cut hair)",
+        "zh": "（鲍勃发型）"
+    },
+    {
+        "en": "with (undercut hair)",
+        "zh": "（剪短的头发）"
+    },
+    {
+        "en": "with (messy hair)",
+        "zh": "（头发凌乱）"
+    },
+    {
+        "en": "with (mullet hair)",
+        "zh": "（鲻鱼发型）"
+    },
+    {
+        "en": "with (braids)",
+        "zh": "有（辫子）"
+    },
+    {
+        "en": "with (french braids)",
+        "zh": "配（法式辫子）"
+    },
+    {
+        "en": "with (cornrows hair)",
+        "zh": "（玉米辫发型）"
+    },
+    {
+        "en": "with (ponytail hair)",
+        "zh": "（马尾辫）"
+    },
+    {
+        "en": "with (side part hair)",
+        "zh": "配（侧分头发）"
+    },
+    {
+        "en": "with (mohawk hair)",
+        "zh": "（莫霍克发型）"
+    },
+    {
+        "en": "with (bun hair)",
+        "zh": "带（发髻）"
+    },
+    {
+        "en": "with (pompadour hair)",
+        "zh": "（蓬巴杜发型）"
+    },
+    {
+        "en": "with (slicked back hair)",
+        "zh": "（头发向后梳）"
+    },
+    {
+        "en": "with (asymmetrical cut hair)",
+        "zh": "（不对称剪发）"
+    },
+    {
+        "en": "with (multicolored rainbow hair)",
+        "zh": "（五彩彩虹色头发）"
+    },
+    {
+        "en": "with (balayage hair)",
+        "zh": "带（挑染头发）"
+    },
+    {
+        "en": "with (french crop hair)",
+        "zh": "（法式短发）"
+    },
+    {
+        "en": "with (shaved hair)",
+        "zh": "（剃光头发）"
+    },
+    {
+        "en": "with (shaved sides hair)",
+        "zh": "（剃掉两侧头发）"
+    },
+    {
+        "en": "with (side swept fringe)",
+        "zh": "带（侧分刘海）"
+    },
+    {
+        "en": "with (long bob haircut)",
+        "zh": "（长鲍勃发型）"
+    },
+    {
+        "en": "with (a-line bob haircut)",
+        "zh": "（A 字形鲍勃发型）"
+    },
+    {
+        "en": "with (layered cut haircut)",
+        "zh": "（分层剪发）"
+    },
+    {
+        "en": "with (shag cut hair)",
+        "zh": "（蓬松剪发）"
+    },
+    {
+        "en": "with (buzz cut hair)",
+        "zh": "（短发）"
+    },
+    {
+        "en": "with (feathered cut hair)",
+        "zh": "（羽毛状剪发）"
+    },
+    {
+        "en": "with (blunt cut hair)",
+        "zh": "（剪短的头发）"
+    },
+    {
+        "en": "with (undercut hair)",
+        "zh": "（剪短的头发）"
+    },
+    {
+        "en": "with (french bob haircut)",
+        "zh": "（法式鲍勃发型）"
+    },
+    {
+        "en": "with (textured bob haircut)",
+        "zh": "（纹理鲍勃发型）"
+    },
+    {
+        "en": "with (slicked-back haircut)",
+        "zh": "（后梳发型）"
+    },
+    {
+        "en": "with (wedge cut haircut)",
+        "zh": "（楔形发型）"
+    },
+    {
+        "en": "with (long layers haircut)",
+        "zh": "（长层次发型）"
+    },
+    {
+        "en": "with (curly bob haircut)",
+        "zh": "（卷曲的鲍勃发型）"
+    },
+    {
+        "en": "with (cropped cut haircut)",
+        "zh": "（剪短发型）"
+    },
+    {
+        "en": "with (faux hawk haircut)",
+        "zh": "（仿鹰发型）"
+    },
+    {
+        "en": "with (angled bob haircut)",
+        "zh": "（斜角鲍勃发型）"
+    },
+    {
+        "en": "with (razor cut haircut)",
+        "zh": "（剃刀剪发）"
+    },
+    {
+        "en": "with (emo haircut)",
+        "zh": "（emo 发型）"
+    },
+    {
+        "en": "with (curtain bangs haircut)",
+        "zh": "带（窗帘刘海发型）"
+    },
+    {
+        "en": "with (waterfall braid haircut)",
+        "zh": "带（瀑布辫发型）"
+    },
+    {
+        "en": "with (fox braids haircut)",
+        "zh": "带（狐狸辫发型）"
+    },
+    {
+        "en": "with (chignon cut hair)",
+        "zh": "（发髻剪裁）"
+    },
+    {
+        "en": "with (pigtails)",
+        "zh": "带（辫子）"
+    },
+    {
+        "en": "with (plait hair)",
+        "zh": "（辫子头发）"
+    },
+    {
+        "en": "with (ponytail)",
+        "zh": "扎马尾辫"
+    },
+    {
+        "en": "with (ringlets hair)",
+        "zh": "有（卷发）"
+    },
+    {
+        "en": "with (curl hair)",
+        "zh": "有（卷发）"
+    },
+    {
+        "en": "with (double bun topknot)",
+        "zh": "配（双髻）"
+    },
+    {
+        "en": "with (drill cut hair)",
+        "zh": "用（钻剪头发）"
+    },
+    {
+        "en": "with (twintails hair)",
+        "zh": "（双马尾发型）"
+    },
+    {
+        "en": "with (hair set up for wedding)",
+        "zh": "（婚礼发型）"
+    },
+    {
+        "en": "with (wavy hair)",
+        "zh": "（波浪发）"
+    },
+    {
+        "en": "with (beach waves hair)",
+        "zh": "（海滩波浪发型）"
+    },
+    {
+        "en": "with (fishtail braid)",
+        "zh": "配（鱼尾辫）"
+    },
+    {
+        "en": "with (dreadlocks)",
+        "zh": "有（脏辫）"
+    },
+    {
+        "en": "with (pin curls hair)",
+        "zh": "用（卷发棒）"
+    },
+    {
+        "en": "with (twisted updo)",
+        "zh": "搭配（扭发髻）"
+    },
+    {
+        "en": "with (hime cut hair)",
+        "zh": "with (姬剪发)"
+    },
+    {
+        "en": "with (pull-through braid hair)",
+        "zh": "带（拉过辫子的头发）"
+    },
+    {
+        "en": "with (Afro hair)",
+        "zh": "（非洲式发型）"
+    },
+    {
+        "en": "with (crown braid)",
+        "zh": "配（皇冠辫）"
+    },
+    {
+        "en": "with (low fade haircut)",
+        "zh": "（低褪色发型）"
+    },
+    {
+        "en": "with (man bun)",
+        "zh": "配（男士发髻）"
+    },
+    {
+        "en": "with (finger waves hair)",
+        "zh": "（手指摇动头发）"
+    },
+    {
+        "en": "with (Dutch braids)",
+        "zh": "（荷兰辫子）"
+    },
+    {
+        "en": "with (tousled hair)",
+        "zh": "（头发凌乱）"
+    },
+    {
+        "en": "with (princess cut hair)",
+        "zh": "（公主剪发）"
+    },
+    {
+        "en": "with (micro braids hair)",
+        "zh": "带（微型辫子头发）"
+    },
+    {
+        "en": "with (lob haircut)",
+        "zh": "（齐肩发型）"
+    },
+    {
+        "en": "with (senegalese twist hair)",
+        "zh": "带（塞内加尔扭发）"
+    },
+    {
+        "en": "with (victory rolls hair)",
+        "zh": "与（胜利卷发）"
+    },
+    {
+        "en": "with (quiff haircut)",
+        "zh": "（蓬蓬头发型）"
+    },
+    {
+        "en": "with (mermaid waves hair)",
+        "zh": "（美人鱼波浪发型）"
+    },
+    {
+        "en": "with (box braids)",
+        "zh": "带（方形辫子）"
+    },
+    {
+        "en": "with (faux locs hair)",
+        "zh": "带（假发）"
+    },
+    {
+        "en": "with (bantu knots)",
+        "zh": "带有（班图结）"
+    },
+    {
+        "en": "with (spiral curls hair)",
+        "zh": "带（螺旋卷发）"
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "en": "front view",
+        "zh": "正视图"
+    },
+    {
+        "en": "bilaterally symmetrical",
+        "zh": "双侧对称"
+    },
+    {
+        "en": "side view",
+        "zh": "侧面图"
+    },
+    {
+        "en": "back view",
+        "zh": "后视图"
+    },
+    {
+        "en": "from above",
+        "zh": "从上面"
+    },
+    {
+        "en": "from below",
+        "zh": "从下面"
+    },
+    {
+        "en": "from behind",
+        "zh": "从后面"
+    },
+    {
+        "en": "wide angle view",
+        "zh": "广角视图"
+    },
+    {
+        "en": "fisheyes view",
+        "zh": "鱼眼视图"
+    },
+    {
+        "en": "macro view",
+        "zh": "宏观"
+    },
+    {
+        "en": "overhead shot",
+        "zh": "俯拍"
+    },
+    {
+        "en": "top down",
+        "zh": "自顶向下"
+    },
+    {
+        "en": "birds eye view",
+        "zh": "鸟瞰图"
+    },
+    {
+        "en": "high angle",
+        "zh": "高角度"
+    },
+    {
+        "en": "slightly above",
+        "zh": "略高于"
+    },
+    {
+        "en": "straight on",
+        "zh": "直上"
+    },
+    {
+        "en": "hero view",
+        "zh": "英雄视图"
+    },
+    {
+        "en": "low view",
+        "zh": "低视角"
+    },
+    {
+        "en": "selfie",
+        "zh": "自拍"
+    },
+    {
+        "en": "panoramic view",
+        "zh": "全景"
+    },
+    {
+        "en": "close-up detail",
+        "zh": "特写细节"
+    },
+    {
+        "en": "forced perspective",
+        "zh": "强制透视"
+    },
+    {
+        "en": "tilt-shift view",
+        "zh": "移轴视角"
+    },
+    {
+        "en": "reflection shot",
+        "zh": "反射镜头"
+    },
+    {
+        "en": "mirror image",
+        "zh": "镜像"
+    },
+    {
+        "en": "split-screen view",
+        "zh": "分屏视图"
+    },
+    {
+        "en": "silhouette",
+        "zh": "轮廓"
+    },
+    {
+        "en": "infrared view",
+        "zh": "红外视图"
+    },
+    {
+        "en": "long exposure",
+        "zh": "长期接触"
+    },
+    {
+        "en": "time-lapse",
+        "zh": "延时摄影"
+    },
+    {
+        "en": "motion blur",
+        "zh": "运动模糊"
+    },
+    {
+        "en": "soft focus",
+        "zh": "柔焦"
+    },
+    {
+        "en": "night shot",
+        "zh": "夜间拍摄"
+    },
+    {
+        "en": "HDR (high dynamic range)",
+        "zh": "HDR（高动态范围）"
+    },
+    {
+        "en": "bokeh effect",
+        "zh": "散景效果"
+    },
+    {
+        "en": "sepia tone",
+        "zh": "棕褐色调"
+    },
+    {
+        "en": "black and white",
+        "zh": "黑色和白色"
+    },
+    {
+        "en": "vintage style",
+        "zh": "复古风格"
+    },
+    {
+        "en": "abstract view",
+        "zh": "抽象视图"
+    },
+    {
+        "en": "aerial view",
+        "zh": "鸟瞰图"
+    }
+]

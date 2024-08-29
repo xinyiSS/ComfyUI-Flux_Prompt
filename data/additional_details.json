@@ -1,0 +1,994 @@
+[
+    {
+        "en": "a purple iridescent suit",
+        "zh": "紫色彩虹套装"
+    },
+    {
+        "en": "wearing a (necklace)",
+        "zh": "戴（项链）"
+    },
+    {
+        "en": "wearing ((earrings))",
+        "zh": "戴耳环"
+    },
+    {
+        "en": "wearing a (bracelet)",
+        "zh": "戴（手镯）"
+    },
+    {
+        "en": "wearing one or multiple (rings)",
+        "zh": "戴一个或多个（戒指）"
+    },
+    {
+        "en": "wearing a (brooch)",
+        "zh": "戴（胸针）"
+    },
+    {
+        "en": "wearing (eyeglasses)",
+        "zh": "戴（眼镜）"
+    },
+    {
+        "en": "wearing (sunglasses)",
+        "zh": "戴（墨镜）"
+    },
+    {
+        "en": "wearing a (hat)",
+        "zh": "戴（帽子）"
+    },
+    {
+        "en": "wearing a (scarf)",
+        "zh": "戴（围巾）"
+    },
+    {
+        "en": "wearing a (headband)",
+        "zh": "戴（头带）"
+    },
+    {
+        "en": "wearing a (nose ring)",
+        "zh": "戴（鼻环）"
+    },
+    {
+        "en": "wearing a (lip ring)",
+        "zh": "戴（唇环）"
+    },
+    {
+        "en": "wearing a (tongue ring)",
+        "zh": "戴（舌环）"
+    },
+    {
+        "en": "wearing an (eyebrow ring)",
+        "zh": "戴（眉环）"
+    },
+    {
+        "en": "wearing (face tattoos)",
+        "zh": "佩戴（面部纹身）"
+    },
+    {
+        "en": "wearing a (wreath)",
+        "zh": "戴（花环）"
+    },
+    {
+        "en": "wearing a (crown)",
+        "zh": "戴着（王冠）"
+    },
+    {
+        "en": "wearing a (tiara)",
+        "zh": "戴着（头饰）"
+    },
+    {
+        "en": "wearing a (crown of thorns)",
+        "zh": "戴着（荆棘冠冕）"
+    },
+    {
+        "en": "wearing a (crown of jewels)",
+        "zh": "戴着（珠宝王冠）"
+    },
+    {
+        "en": "wearing (bohemian clothes)",
+        "zh": "穿（波西米亚风格的服装）"
+    },
+    {
+        "en": "wearing (chic clothes)",
+        "zh": "穿（别致的衣服）"
+    },
+    {
+        "en": "wearing (glamorous clothes)",
+        "zh": "穿（华丽的衣服）"
+    },
+    {
+        "en": "wearing (grunge clothes)",
+        "zh": "穿着（邋遢的衣服）"
+    },
+    {
+        "en": "wearing (preppy clothes)",
+        "zh": "穿（学院风的衣服）"
+    },
+    {
+        "en": "wearing (punk clothes)",
+        "zh": "穿着（朋克服装）"
+    },
+    {
+        "en": "wearing (retro clothes)",
+        "zh": "穿（复古服装）"
+    },
+    {
+        "en": "wearing (rockabilly clothes)",
+        "zh": "穿着（摇滚乐服装）"
+    },
+    {
+        "en": "wearing (romantic clothes)",
+        "zh": "穿（浪漫的衣服）"
+    },
+    {
+        "en": "wearing (tomboy clothes)",
+        "zh": "穿（假小子的衣服）"
+    },
+    {
+        "en": "wearing (urban clothes)",
+        "zh": "穿（城市服装）"
+    },
+    {
+        "en": "wearing (camo clothes)",
+        "zh": "穿（迷彩服）"
+    },
+    {
+        "en": "wearing (robes)",
+        "zh": "穿（长袍）"
+    },
+    {
+        "en": "wearing (excessive amount of jewellery)",
+        "zh": "佩戴（过多的珠宝）"
+    },
+    {
+        "en": "wearing (vintage clothes)",
+        "zh": "穿（复古服装）"
+    },
+    {
+        "en": "wearing (western clothes)",
+        "zh": "穿（西式服装）"
+    },
+    {
+        "en": "wearing (minimalist clothes)",
+        "zh": "穿（极简主义的衣服）"
+    },
+    {
+        "en": "wearing (sportswear clothes)",
+        "zh": "穿（运动服）"
+    },
+    {
+        "en": "wearing (flapper clothes)",
+        "zh": "穿着（时髦的衣服）"
+    },
+    {
+        "en": "wearing (pin-up clothes)",
+        "zh": "穿着（海报女郎的衣服）"
+    },
+    {
+        "en": "wearing (mid-century modern clothes)",
+        "zh": "穿着（中世纪现代服装）"
+    },
+    {
+        "en": "wearing (art deco clothes)",
+        "zh": "穿着（装饰艺术风格的衣服）"
+    },
+    {
+        "en": "wearing (victorian clothes)",
+        "zh": "穿（维多利亚时代的服装）"
+    },
+    {
+        "en": "wearing (edwardian clothes)",
+        "zh": "穿（爱德华时代的服装）"
+    },
+    {
+        "en": "wearing (elizabethan clothes)",
+        "zh": "穿（伊丽莎白时代的服装）"
+    },
+    {
+        "en": "wearing (retro 70s clothes)",
+        "zh": "穿着（70 年代复古服装）"
+    },
+    {
+        "en": "wearing (retro 80s clothes)",
+        "zh": "穿着（80 年代复古服装）"
+    },
+    {
+        "en": "wearing (retro 90s clothes)",
+        "zh": "穿着（90 年代复古服装）"
+    },
+    {
+        "en": "wearing (retro 00s clothes)",
+        "zh": "穿着（00 年代复古服饰）"
+    },
+    {
+        "en": "wearing (musical equipment)",
+        "zh": "佩戴（乐器）"
+    },
+    {
+        "en": "wearing (leather)",
+        "zh": "穿着（皮革）"
+    },
+    {
+        "en": "wearing (bdsm leather)",
+        "zh": "穿着 (bdsm 皮革)"
+    },
+    {
+        "en": "wearing (shiny latex)",
+        "zh": "穿着（闪亮乳胶）"
+    },
+    {
+        "en": "wearing (shiny latex suit)",
+        "zh": "穿着（闪亮的乳胶套装）"
+    },
+    {
+        "en": "wearing (silk)",
+        "zh": "穿（丝绸）"
+    },
+    {
+        "en": "wearing (full tweed set)",
+        "zh": "穿着（全套粗花呢）"
+    },
+    {
+        "en": "wearing (clothes made entirely of feathers)",
+        "zh": "穿（完全由羽毛制成的衣服）"
+    },
+    {
+        "en": "wearing (clothes made entirely of fur)",
+        "zh": "穿（全毛皮制成的衣服）"
+    },
+    {
+        "en": "wearing (clothes made entirely of leather)",
+        "zh": "穿（全皮革制成的衣服）"
+    },
+    {
+        "en": "wearing (clothes made entirely of metal)",
+        "zh": "穿（全金属制成的衣服）"
+    },
+    {
+        "en": "wearing (clothes made entirely of plastic)",
+        "zh": "穿（全塑料制成的衣服）"
+    },
+    {
+        "en": "wearing (clothes adorned with shimmering jewels or crystals)",
+        "zh": "穿着（饰有闪闪发光的珠宝或水晶的衣服）"
+    },
+    {
+        "en": "waring (clothes adorned with sequins)",
+        "zh": "沃林（饰有亮片的衣服）"
+    },
+    {
+        "en": "wearing (clothes with exaggerated or extreme silhouettes)",
+        "zh": "穿着（轮廓夸张或极端的衣服）"
+    },
+    {
+        "en": "wearing (clothes with exaggerated or extreme footwear)",
+        "zh": "穿着（衣服搭配夸张或极端的鞋子）"
+    },
+    {
+        "en": "wearing (clothes with exaggerated or extreme headwear)",
+        "zh": "穿着（带有夸张或极端头饰的衣服）"
+    },
+    {
+        "en": "wearing (clothes with exaggerated or extreme facial or body piercings or tattoos)",
+        "zh": "穿着（带有夸张或极端的面部或身体穿孔或纹身的衣服）"
+    },
+    {
+        "en": "wearing (clothes with multiple layers or tiers)",
+        "zh": "穿（多层或多层的衣服）"
+    },
+    {
+        "en": "wearing (clothes with exaggerated or extreme colors)",
+        "zh": "穿（颜色夸张或极端的衣服）"
+    },
+    {
+        "en": "wearing (clothes with exaggerated or extreme patterns)",
+        "zh": "穿（带有夸张或极端图案的衣服）"
+    },
+    {
+        "en": "wearing (cloak)",
+        "zh": "穿（斗篷）"
+    },
+    {
+        "en": "wearing an astronaut armor",
+        "zh": "穿着宇航员盔甲"
+    },
+    {
+        "en": "wearing a bio mechanical suit",
+        "zh": "穿着生物机械服"
+    },
+    {
+        "en": "wearing a bio hazard suit",
+        "zh": "穿着生物防护服"
+    },
+    {
+        "en": "(( working with laptop))",
+        "zh": "(( 使用笔记本电脑 ))"
+    },
+    {
+        "en": "with Heat deformation",
+        "zh": "热变形"
+    },
+    {
+        "en": "(((future soldier, full body armor, futuristic football, shoulder pads, guns, grenades, weapons, bullet proof vest, high tech, straps, belts, camouflage)))",
+        "zh": "(((未来士兵，全身盔甲，未来派足球，护肩，枪支，手榴弹，武器，防弹背心，高科技，背带，皮带，伪装)))"
+    },
+    {
+        "en": "((full body, zoomed out)) long slender legs 80mm",
+        "zh": "（（全身，缩小））细长的腿 80 毫米"
+    },
+    {
+        "en": "(((sci-fi, future war, cyberpunk, cyborg, future fashion, beautiful face, glowing tattoos)))",
+        "zh": "(((科幻、未来战争、赛博朋克、机器人、未来时尚、美丽的脸庞、发光的纹身)))"
+    },
+    {
+        "en": "((angry expression, pretty face))",
+        "zh": "((愤怒的表情，漂亮的脸蛋))"
+    },
+    {
+        "en": "(((full body, athletic body, action pose, detailed black soldier outfit, slender long legs)))",
+        "zh": "(((全身，健美的身材，动作姿势，细致的黑人士兵服装，纤细的长腿)))"
+    },
+    {
+        "en": "playing epic electric guitar solo in front of a huge crowd",
+        "zh": "在众多观众面前演奏史诗般的电吉他独奏"
+    },
+    {
+        "en": "singing epic solo into a microphone in front of a huge crowd",
+        "zh": "在众多观众面前对着麦克风演唱史诗般的独唱"
+    },
+    {
+        "en": "as a ((gelatinous horror dripping alien creature))",
+        "zh": "像一个（（凝胶状的恐怖滴落的外星生物））"
+    },
+    {
+        "en": "in a tie or bowtie, lending a touch of formal elegance or quirky charm, knotted around the collar to elevate the outfit",
+        "zh": "系上领带或领结，增添一丝正式的优雅或古怪的魅力，系在衣领上，提升服装的档次"
+    },
+    {
+        "en": "with anklets, delicate chains or beads that gracefully encircle the ankle, adding a touch of femininity with every step",
+        "zh": "脚链、精致的链条或珠子优雅地环绕脚踝，每一步都增添一丝女性气质"
+    },
+    {
+        "en": "donning a belt, functional yet fashionable, cinching the waist or sitting low on the hips, often with a statement buckle",
+        "zh": "系一条腰带，既实用又时尚，收紧腰部或系在臀部较低处，通常配有一个醒目的扣子"
+    },
+    {
+        "en": "wearing gloves, either elegant satin for formal events or rugged leather for a tougher look, complementing the attire and mood",
+        "zh": "戴手套，无论是正式场合佩戴的优雅绸缎手套，还是更硬朗的皮革手套，都与服装和心情相得益彰"
+    },
+    {
+        "en": "with a choker, snugly encircling the neck, often made of lace, velvet, or leather, exuding a mix of elegance and edge",
+        "zh": "颈链紧贴颈部，通常由蕾丝、天鹅绒或皮革制成，散发出优雅与前卫的混合气息"
+    },
+    {
+        "en": "in stockings or tights, sheer or opaque, enhancing the legs while adding a touch of sophistication or playful patterns",
+        "zh": "长筒袜或紧身裤，透明或不透明，突出腿部线条，同时增添一丝精致或俏皮的图案"
+    },
+    {
+        "en": "with a satchel or bag, a functional accessory that speaks volumes about personal style, be it a minimalist tote or an embellished clutch",
+        "zh": "挎包或包袋，无论是简约的手提包还是装饰精美的手拿包，都是彰显个人风格的实用配饰"
+    },
+    {
+        "en": "wearing cufflinks, subtle symbols of elegance, adorning the sleeves of a formal shirt, showcasing attention to detail",
+        "zh": "佩戴袖扣，优雅的微妙象征，装饰正式衬衫的袖子，展示对细节的关注"
+    },
+    {
+        "en": "with a pendant, a piece of jewelry that dangles gracefully from a necklace, often holding sentimental or symbolic value",
+        "zh": "带有吊坠的珠宝，优雅地悬挂在项链上，通常具有情感或象征意义"
+    },
+    {
+        "en": "in layered necklaces, a blend of chains of varying lengths, creating depth and showcasing multiple pendants or charms",
+        "zh": "多层项链，混合不同长度的链条，营造深度，展示多个吊坠或饰物"
+    },
+    {
+        "en": "sporting a watch, a timeless accessory that blends functionality with style, either minimalist or grand, reflecting personal tastes",
+        "zh": "佩戴手表，这是一种永恒的配饰，将功能与风格融为一体，无论是简约还是华丽，都体现了个人品味"
+    },
+    {
+        "en": "wearing a veil, a delicate piece of fabric that adds mystery and allure, often seen in bridal or ceremonial attire",
+        "zh": "戴面纱，这是一种能增添神秘感和魅力的精致布料，通常出现在新娘或礼服中"
+    },
+    {
+        "en": "donning a cape or cloak, adding drama to the ensemble, flowing gracefully with every movement, evoking a sense of fantasy or regality",
+        "zh": "披上斗篷或披风，为整体增添戏剧效果，每个动作都优雅流畅，唤起一种幻想或庄严的感觉"
+    },
+    {
+        "en": "with a tiara or diadem, a jeweled headpiece that signifies royalty or celebration, resting gracefully atop the head",
+        "zh": "头戴冠冕或王冠，这是一种镶嵌着宝石的头饰，象征着皇室或庆典，优雅地戴在头顶"
+    },
+    {
+        "en": "Adorned with a crown, symbolizing royalty and authority with gemstones and metals.",
+        "zh": "饰有皇冠，用宝石和金属象征皇室和权威。"
+    },
+    {
+        "en": "With a sparkling tiara, reminiscent of princesses or beauty queens.",
+        "zh": "戴着闪闪发光的头饰，让人想起公主或选美皇后。"
+    },
+    {
+        "en": "With a poignant crown of thorns, symbolizing sacrifice and resilience.",
+        "zh": "带有凄美的荆棘冠冕，象征着牺牲和坚韧。"
+    },
+    {
+        "en": "With a jewel-encrusted crown, reflecting affluence and grandeur.",
+        "zh": "镶满宝石的王冠，体现富裕和宏伟。"
+    },
+    {
+        "en": "In bohemian attire, embodying the free spirits with patterns and fringes.",
+        "zh": "波西米亚风格的服装，以图案和流苏体现自由精神。"
+    },
+    {
+        "en": "Dressed in chic fashion, blending comfort with high style.",
+        "zh": "穿着时尚别致，将舒适与高雅融为一体。"
+    },
+    {
+        "en": "In glamorous attire, shiny or sequined, perfect for red-carpet events.",
+        "zh": "穿着华丽的服装，闪亮或镶有亮片，非常适合红地毯活动。"
+    },
+    {
+        "en": "Donning grunge wear, with flannels and combat boots, reflecting rebellion.",
+        "zh": "穿着法兰绒布和战斗靴等垃圾摇滚风格服装，体现反叛精神。"
+    },
+    {
+        "en": "In preppy attire, sophisticated with collared shirts and blazers.",
+        "zh": "穿着学院风服装，有领衬衫和西装外套，显得精致。"
+    },
+    {
+        "en": "Wearing punk fashion, with studded accessories and band tees.",
+        "zh": "穿着朋克时装，带有铆钉配饰和乐队 T 恤。"
+    },
+    {
+        "en": "In retro attire, drawing from various iconic decades.",
+        "zh": "穿着复古的服装，灵感源自各个标志性的年代。"
+    },
+    {
+        "en": "In rockabilly style, mixing rock 'n' roll with polka dots and swing dresses.",
+        "zh": "采用乡村摇滚风格，将摇滚乐与波尔卡圆点和摇摆裙混合在一起。"
+    },
+    {
+        "en": "In romantic wear, with lace, ruffles, and pastel shades.",
+        "zh": "浪漫的服饰，带有蕾丝、褶边和柔和的色调。"
+    },
+    {
+        "en": "In tomboy attire, masculine pieces with a feminine flair.",
+        "zh": "穿着假小子风格的服装，男性化的单品带有女性化的气息。"
+    },
+    {
+        "en": "Wearing urban fashion, blending street style with graphic tees and chunky sneakers.",
+        "zh": "穿着都市时尚，将街头风格与图案 T 恤和厚底运动鞋融为一体。"
+    },
+    {
+        "en": "In camo wear, military-inspired, blending in yet standing out.",
+        "zh": "迷彩服，军事风格，融入其中却又引人注目。"
+    },
+    {
+        "en": "Draped in mystic robes, evoking scholars or wizards.",
+        "zh": "披着神秘的长袍，让人联想到学者或巫师。"
+    },
+    {
+        "en": "Adorned in abundant jewelry, each piece showcasing unique style.",
+        "zh": "装饰有丰富的珠宝，每件都展现出独特的风格。"
+    },
+    {
+        "en": "In vintage attire, echoing past eras with intricate designs.",
+        "zh": "穿着复古的服装，以精致的设计呼应过去的时代。"
+    },
+    {
+        "en": "In western wear, with cowboy hats and fringed jackets.",
+        "zh": "穿着西部服装，带牛仔帽和流苏夹克。"
+    },
+    {
+        "en": "In minimalist fashion, elegant with clean lines and neutral tones.",
+        "zh": "采用简约风格，线条清晰，色调中性，优雅别致。"
+    },
+    {
+        "en": "Wearing sportswear, functional with athletic shoes.",
+        "zh": "穿着运动服，搭配运动鞋。"
+    },
+    {
+        "en": "In flapper style, evoking the lively 1920s jazz scene.",
+        "zh": "采用轻薄短小的风格，让人想起 20 世纪 20 年代热闹的爵士乐场景。"
+    },
+    {
+        "en": "In pin-up attire, oozing sensuality with high-waists and red lipstick.",
+        "zh": "身着海报女郎风格的服装，高腰裤和红色唇膏散发着性感魅力。"
+    },
+    {
+        "en": "In mid-century modern fashion, reflecting post-war optimism.",
+        "zh": "采用二十世纪中期的现代时尚，体现了战后乐观情绪。"
+    },
+    {
+        "en": "In art deco style, fusing modern with lavish 20s embellishments.",
+        "zh": "采用装饰艺术风格，将现代风格与 20 年代的奢华装饰融为一体。"
+    },
+    {
+        "en": "Dressed in Victorian elegance, with corsets and intricate lacework.",
+        "zh": "穿着维多利亚风格的优雅服装，配有紧身胸衣和复杂的花边。"
+    },
+    {
+        "en": "In Edwardian attire, showcasing lighter fabrics, empire waistlines, and large hats.",
+        "zh": "爱德华时代的服装，展示较轻的面料、高腰线和大帽子。"
+    },
+    {
+        "en": "Dressed in Elizabethan style, with ruffled collars, velvet gowns, and detailed embroidery.",
+        "zh": "采用伊丽莎白风格服饰，带有荷叶边衣领、天鹅绒长袍和精致的刺绣。"
+    },
+    {
+        "en": "In 70s retro, featuring psychedelic patterns, bell-bottoms, and platform shoes.",
+        "zh": "70 年代复古风格，以迷幻图案、喇叭裤和厚底鞋为特色。"
+    },
+    {
+        "en": "Wearing 80s retro, marked by neon colors, shoulder pads, and oversized tops.",
+        "zh": "穿着 80 年代复古风格的衣服，以霓虹色、垫肩和超大上衣为标志。"
+    },
+    {
+        "en": "In 90s attire, blending grunge, minimalism, and sportswear, with baggy jeans and crop tops.",
+        "zh": "90 年代的装束，融合了垃圾摇滚、简约主义和运动装，搭配宽松的牛仔裤和露脐上衣。"
+    },
+    {
+        "en": "Donning 00s style, with low-rise jeans, bedazzled tops, and chunky belts.",
+        "zh": "穿上 00 年代风格，搭配低腰牛仔裤、闪亮上衣和粗腰带。"
+    },
+    {
+        "en": "Adorned with musical accessories, like a harmonica necklace or drumstick earrings.",
+        "zh": "饰有音乐配件，如口琴项链或鼓槌耳环。"
+    },
+    {
+        "en": "In leather, symbolizing toughness with studs or zippers.",
+        "zh": "用皮革制成，以铆钉或拉链象征坚韧。"
+    },
+    {
+        "en": "In bold BDSM leather, featuring harnesses, chokers, and lace-up details.",
+        "zh": "采用大胆的 BDSM 皮革制成，配有背带、颈链和系带细节。"
+    },
+    {
+        "en": "In reflective latex, often seen in avant-garde fashion.",
+        "zh": "采用反光乳胶，常见于前卫时尚中。"
+    },
+    {
+        "en": "In a glossy latex suit, paired with high heels or boots.",
+        "zh": "穿着有光泽的乳胶套装，搭配高跟鞋或靴子。"
+    },
+    {
+        "en": "Draped in luxurious silk, synonymous with opulence and elegance.",
+        "zh": "披着奢华的丝绸，富丽堂皇，优雅别致。"
+    },
+    {
+        "en": "In a tweed ensemble, reflecting academia or British countryside charm.",
+        "zh": "穿着粗花呢套装，体现出学术气息或英国乡村的魅力。"
+    },
+    {
+        "en": "Clothed in feathers, creating drama with each step.",
+        "zh": "身披羽毛，每一步都充满戏剧效果。"
+    },
+    {
+        "en": "In fur, a symbol of luxury and grandeur.",
+        "zh": "皮毛是奢华和宏伟的象征。"
+    },
+    {
+        "en": "In metallic attire, with futuristic chains or mesh details.",
+        "zh": "穿着金属服装，带有未来主义风格的链条或网状细节。"
+    },
+    {
+        "en": "In vibrant plastic wear, modern and edgy.",
+        "zh": "色彩鲜艳的塑料服装，现代而前卫。"
+    },
+    {
+        "en": "Adorned in dazzling jewels or crystals.",
+        "zh": "饰有耀眼的珠宝或水晶。"
+    },
+    {
+        "en": "In sequined attire, perfect for parties or performances.",
+        "zh": "穿着亮片服装，非常适合派对或表演。"
+    },
+    {
+        "en": "In exaggerated silhouettes, challenging fashion norms.",
+        "zh": "以夸张的轮廓挑战时尚规范。"
+    },
+    {
+        "en": "In layered clothing, adding depth and dimension.",
+        "zh": "穿着分层的衣服，增加深度和立体感。"
+    },
+    {
+        "en": "In astronaut armor, representing space exploration.",
+        "zh": "穿着宇航员盔甲，代表太空探索。"
+    },
+    {
+        "en": "In a bio-mechanical suit, blending organic and synthetic elements.",
+        "zh": "穿着生物机械服，融合了有机和合成元素。"
+    },
+    {
+        "en": "Wearing a protective biohazard suit.",
+        "zh": "穿着防护生物危害服。"
+    },
+    {
+        "en": "Engaged with a laptop, reflecting a tech-savvy nature.",
+        "zh": "使用笔记本电脑，体现出精通技术的天性。"
+    },
+    {
+        "en": "Surrounded by heat deformation or mirage effects.",
+        "zh": "周围有热变形或海市蜃楼效应。"
+    },
+    {
+        "en": "As a futuristic soldier, equipped for dystopian warfare.",
+        "zh": "作为一名未来的士兵，装备齐全，准备参加反乌托邦战争。"
+    },
+    {
+        "en": "A translucent, amorphous alien creature, often found in horror or sci-fi.",
+        "zh": "一种半透明、无定形的外星生物，经常出现在恐怖片或科幻片中。"
+    },
+    {
+        "en": "Wearing a cloak, suggesting mystery, fantasy, or protection.",
+        "zh": "穿着斗篷，暗示着神秘、幻想或保护。"
+    },
+    {
+        "en": "Playing a gripping electric guitar solo, immersed in the audience's energy.",
+        "zh": "演奏扣人心弦的电吉他独奏，让观众沉浸在其中。"
+    },
+    {
+        "en": "Singing intensely, with the crowd hanging on every word.",
+        "zh": "唱得热情洋溢，观众全神贯注地听着每一个字。"
+    },
+    {
+        "en": "A pulsating, translucent horror, invoking fear and intrigue.",
+        "zh": "一种脉动的、半透明的恐怖，引发恐惧和好奇。"
+    },
+    {
+        "en": "Full-body view highlighting slender legs and distinctive footwear.",
+        "zh": "全身视图突显纤细的双腿和独特的鞋子。"
+    },
+    {
+        "en": "Futuristic, with glowing tattoos and cybernetic features.",
+        "zh": "充满未来感，带有发光的纹身和控制论特征。"
+    },
+    {
+        "en": "Angry expression on a strikingly beautiful face.",
+        "zh": "一张极其美丽的脸上露出愤怒的表情。"
+    },
+    {
+        "en": "In an action pose, dressed in a detailed black soldier outfit.",
+        "zh": "摆出动作姿势，身着精致的黑色士兵服装。"
+    },
+    {
+        "en": "Lost in an electric guitar solo, resonating with listeners.",
+        "zh": "迷失在电吉他独奏中，引起听众的共鸣。"
+    },
+    {
+        "en": "Singing powerfully, captivating the audience with deep emotion.",
+        "zh": "歌声铿锵有力，深深地感染了观众。"
+    },
+    {
+        "en": "A shifting, glistening alien horror from the universe's dark corners.",
+        "zh": "来自宇宙黑暗角落的不断移动、闪闪发光的外星恐怖事物。"
+    },
+    {
+        "en": "Full body, focusing on 80mm slender legs emphasizing height.",
+        "zh": "全身，重点突出80毫米纤细的双腿，突出身高。"
+    },
+    {
+        "en": "Blending sci-fi, cyberpunk, and glowing tattoos with futuristic weapons.",
+        "zh": "将科幻、赛博朋克、发光纹身与未来派武器融为一体。"
+    },
+    {
+        "en": "Attire shimmering due to heat, creating a mirage effect.",
+        "zh": "服装因热而闪闪发光，产生海市蜃楼效果。"
+    },
+    {
+        "en": "A future soldier with body armor, high-tech gear, and camouflaged straps.",
+        "zh": "一名拥有防弹衣、高科技装备和迷彩背带的未来士兵。"
+    },
+    {
+        "en": "Guitar solo with a crowd backdrop, producing electrifying sounds.",
+        "zh": "在人群背景下的吉他独奏，产生令人振奋的声音。"
+    },
+    {
+        "en": "Singing with passion, surrounded by lights and a massive audience's energy.",
+        "zh": "充满激情的歌唱，被灯光和大量观众的能量所包围。"
+    },
+    {
+        "en": "A shifting, oozing alien creature, invoking dread and curiosity.",
+        "zh": "一种不断移动、渗出液体的外星生物，引发人们的恐惧和好奇。"
+    },
+    {
+        "en": "Full-body focus on remarkable 80mm slender legs.",
+        "zh": "全身焦点集中在引人注目的80毫米纤细腿上。"
+    },
+    {
+        "en": "A future soldier with cyberpunk aesthetics and glowing tattoos.",
+        "zh": "一位具有赛博朋克美学和发光纹身的未来士兵。"
+    },
+    {
+        "en": "Intense expression on a stunning face, showing raw emotion.",
+        "zh": "令人惊叹的脸上有着强烈的表情，流露出原始的情感。"
+    },
+    {
+        "en": "Athletic pose in a detailed black soldier outfit, emphasizing a fit physique.",
+        "zh": "身着精致黑色士兵服装的运动姿势，凸显健康的体格。"
+    },
+    {
+        "en": "Electrifying guitar solo before a massive cheering crowd.",
+        "zh": "在众多欢呼的观众面前，演奏激动人心的吉他独奏。"
+    },
+    {
+        "en": "Singing with raw emotion, captivating a vast audience.",
+        "zh": "用真情实感的歌声，俘获了大批听众的心。"
+    },
+    {
+        "en": "A gelatinous, glowing alien creature; both feared and intriguing.",
+        "zh": "一种凝胶状、发光的外星生物；既令人恐惧又令人好奇。"
+    },
+    {
+        "en": "Full-body shot highlighting exaggerated 80mm slender legs.",
+        "zh": "全身照，凸显夸张的80毫米纤细双腿。"
+    },
+    {
+        "en": "Adorned in sci-fi, cyberpunk attire with glowing tattoos.",
+        "zh": "身着科幻、赛博朋克服装，身上有发光的纹身。"
+    },
+    {
+        "en": "Heated demeanor causing mirage-like distortions around them.",
+        "zh": "激动的举止导致周围出现海市蜃楼般的扭曲。"
+    },
+    {
+        "en": "Future soldier in body armor with high-tech gear.",
+        "zh": "身穿配备高科技装备的防弹衣的未来士兵。"
+    },
+    {
+        "en": "Zoomed-out shot emphasizing 80mm long slender legs.",
+        "zh": "缩小镜头，突出 80 毫米长的细长腿。"
+    },
+    {
+        "en": "Sci-fi and cyberpunk blend with glowing tattoos.",
+        "zh": "科幻和赛博朋克与发光纹身融为一体。"
+    },
+    {
+        "en": "Epic guitar solo captivating a vast audience.",
+        "zh": "史诗般的吉他独奏吸引了大批听众。"
+    },
+    {
+        "en": "Intense solo performance with a powerful voice.",
+        "zh": "激烈的独奏表演，具有强大的声音。"
+    },
+    {
+        "en": "Ever-changing gelatinous alien of horror.",
+        "zh": "不断变化的恐怖凝胶状外星人。"
+    },
+    {
+        "en": "Full-body shot, 80mm slender legs in focus.",
+        "zh": "全身照，80mm 纤细的腿清晰可见。"
+    },
+    {
+        "en": "Futuristic, cyberpunk with glow-emitting tattoos.",
+        "zh": "具有未来主义风格、赛博朋克风且带有发光纹身。"
+    },
+    {
+        "en": "Heat-induced warping surroundings like a mirage.",
+        "zh": "热量导致周围环境扭曲，犹如海市蜃楼。"
+    },
+    {
+        "en": "Tech-equipped future soldier ready for battle.",
+        "zh": "装备精良的未来士兵准备战斗。"
+    },
+    {
+        "en": "Full-body view, 80mm legs as highlight.",
+        "zh": "全身视图，80mm 的腿是亮点。"
+    },
+    {
+        "en": "Sci-fi blend with glow-in-the-dark tattoos.",
+        "zh": "科幻与夜光纹身相融合。"
+    },
+    {
+        "en": "Swift guitar solo resonating with a huge crowd.",
+        "zh": "斯威夫特的吉他独奏引起了观众的共鸣。"
+    },
+    {
+        "en": "Passionate vocal solo captivating listeners.",
+        "zh": "充满激情的独唱让听众着迷。"
+    },
+    {
+        "en": "Dripping, amorphous alien creature.",
+        "zh": "滴水的、无定形的外星生物。"
+    },
+    {
+        "en": "Full-body stance, 80mm slender legs showcased.",
+        "zh": "全身姿态，80mm纤细双腿凸显。"
+    },
+    {
+        "en": "a shimmering sequin dress",
+        "zh": "闪闪发光的亮片连衣裙"
+    },
+    {
+        "en": "wearing studded (ankle boots)",
+        "zh": "穿着镶钉（踝靴）"
+    },
+    {
+        "en": "donning a (velvet cape)",
+        "zh": "披上（天鹅绒斗篷）"
+    },
+    {
+        "en": "wearing a (choker)",
+        "zh": "戴（颈链）"
+    },
+    {
+        "en": "sporting (platform shoes)",
+        "zh": "运动（厚底鞋）"
+    },
+    {
+        "en": "adorned with a (body chain)",
+        "zh": "饰有（身体链）"
+    },
+    {
+        "en": "wearing a (fringed jacket)",
+        "zh": "穿着（流苏夹克）"
+    },
+    {
+        "en": "donning (fingerless gloves)",
+        "zh": "戴上（露指手套）"
+    },
+    {
+        "en": "wearing (fishnet stockings)",
+        "zh": "穿（渔网袜）"
+    },
+    {
+        "en": "draped in a (kimono)",
+        "zh": "穿着（和服）"
+    },
+    {
+        "en": "wearing (combat boots)",
+        "zh": "穿（战斗靴）"
+    },
+    {
+        "en": "adorned with a (belly chain)",
+        "zh": "饰有（肚链）"
+    },
+    {
+        "en": "wearing a (biker jacket)",
+        "zh": "穿着（机车夹克）"
+    },
+    {
+        "en": "donning (thigh-high boots)",
+        "zh": "穿上（过膝长靴）"
+    },
+    {
+        "en": "wearing (steampunk goggles)",
+        "zh": "戴着（蒸汽朋克护目镜）"
+    },
+    {
+        "en": "adorned with (arm cuffs)",
+        "zh": "饰有（袖口）"
+    },
+    {
+        "en": "wearing a (corset belt)",
+        "zh": "穿着（束身衣腰带）"
+    },
+    {
+        "en": "donning a (turban)",
+        "zh": "戴（头巾）"
+    },
+    {
+        "en": "sporting a (feathered headdress)",
+        "zh": "戴着（羽毛头饰）"
+    },
+    {
+        "en": "wearing (holo sneakers)",
+        "zh": "穿着（全息运动鞋）"
+    },
+    {
+        "en": "adorned with (toe rings)",
+        "zh": "饰有（趾环）"
+    },
+    {
+        "en": "draped in a (sari)",
+        "zh": "披着（纱丽）"
+    },
+    {
+        "en": "wearing (futuristic visor)",
+        "zh": "戴着（未来派遮阳帽）"
+    },
+    {
+        "en": "sporting (peep-toe heels)",
+        "zh": "运动（露趾高跟鞋）"
+    },
+    {
+        "en": "adorned with (upper arm bracelets)",
+        "zh": "饰有（上臂手镯）"
+    },
+    {
+        "en": "wearing a (poncho)",
+        "zh": "穿着（斗篷）"
+    },
+    {
+        "en": "donning (knee-high socks)",
+        "zh": "穿上（及膝袜）"
+    },
+    {
+        "en": "draped in a (toga)",
+        "zh": "披着（长袍）"
+    },
+    {
+        "en": "wearing a (flapper dress)",
+        "zh": "穿着（短裙）"
+    },
+    {
+        "en": "sporting (winged shoes)",
+        "zh": "运动（带翼的鞋）"
+    },
+    {
+        "en": "wearing a (ruffled blouse)",
+        "zh": "穿着（荷叶边衬衫）"
+    },
+    {
+        "en": "adorned with a (leg chain)",
+        "zh": "饰有（腿链）"
+    },
+    {
+        "en": "wearing (gladiator sandals)",
+        "zh": "穿着（角斗士凉鞋）"
+    },
+    {
+        "en": "draped in a (cloak)",
+        "zh": "披着（斗篷）"
+    },
+    {
+        "en": "sporting (suspenders)",
+        "zh": "运动（吊带）"
+    },
+    {
+        "en": "donning a (beret)",
+        "zh": "戴上（贝雷帽）"
+    },
+    {
+        "en": "wearing (cufflinks)",
+        "zh": "佩戴（袖扣）"
+    },
+    {
+        "en": "adorned with a (medallion)",
+        "zh": "装饰有（奖章）"
+    },
+    {
+        "en": "wearing (spats)",
+        "zh": "穿着（紧身裤）"
+    },
+    {
+        "en": "sporting (elbow-length gloves)",
+        "zh": "运动（肘长手套）"
+    },
+    {
+        "en": "donning (denim overalls)",
+        "zh": "穿上（牛仔工作服）"
+    },
+    {
+        "en": "wearing a (mesh top)",
+        "zh": "穿着（网眼上衣）"
+    },
+    {
+        "en": "adorned with (ear cuffs)",
+        "zh": "饰有（耳罩）"
+    },
+    {
+        "en": "draped in a (shawl)",
+        "zh": "披着（披肩）"
+    },
+    {
+        "en": "wearing a (trilby hat)",
+        "zh": "戴着（毡帽）"
+    },
+    {
+        "en": "sporting (stiletto heels)",
+        "zh": "运动（细高跟鞋）"
+    },
+    {
+        "en": "wearing a (vest)",
+        "zh": "穿着（背心）"
+    },
+    {
+        "en": "adorned with (hairpins)",
+        "zh": "饰有（发夹）"
+    },
+    {
+        "en": "wearing (espadrilles)",
+        "zh": "穿（帆布鞋）"
+    },
+    {
+        "en": "draped in a (trench coat)",
+        "zh": "披着（风衣）"
+    }
+]

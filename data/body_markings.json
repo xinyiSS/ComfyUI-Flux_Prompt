@@ -1,0 +1,138 @@
+[
+    {
+        "en": "birthmark on face",
+        "zh": "脸上的胎记"
+    },
+    {
+        "en": "birthmark on arm",
+        "zh": "手臂上有胎记"
+    },
+    {
+        "en": "birthmark on leg",
+        "zh": "腿上有一个胎记"
+    },
+    {
+        "en": "mole on face",
+        "zh": "脸上的痣"
+    },
+    {
+        "en": "mole on neck",
+        "zh": "脖子上的痣"
+    },
+    {
+        "en": "mole on hand",
+        "zh": "手上有痣"
+    },
+    {
+        "en": "freckles on face",
+        "zh": "脸上的雀斑"
+    },
+    {
+        "en": "freckles on arms",
+        "zh": "手臂上的雀斑"
+    },
+    {
+        "en": "freckles on shoulders",
+        "zh": "肩膀上的雀斑"
+    },
+    {
+        "en": "scar on chest",
+        "zh": "胸口有疤痕"
+    },
+    {
+        "en": "scar on hand",
+        "zh": "手上有疤痕"
+    },
+    {
+        "en": "scar on thigh",
+        "zh": "大腿上的疤痕"
+    },
+    {
+        "en": "stretch marks on stomach",
+        "zh": "肚子上的妊娠纹"
+    },
+    {
+        "en": "stretch marks on thighs",
+        "zh": "大腿上的妊娠纹"
+    },
+    {
+        "en": "acne scars on face",
+        "zh": "脸上的痤疮疤痕"
+    },
+    {
+        "en": "acne scars on back",
+        "zh": "背部痤疮疤痕"
+    },
+    {
+        "en": "burn mark on arm",
+        "zh": "手臂上有烧伤痕迹"
+    },
+    {
+        "en": "burn mark on face",
+        "zh": "脸上烧伤痕迹"
+    },
+    {
+        "en": "razor scar on wrist",
+        "zh": "手腕上被剃刀刮伤的疤痕"
+    },
+    {
+        "en": "knife scar on stomach",
+        "zh": "肚子上有刀疤"
+    },
+    {
+        "en": "tattoo on arm",
+        "zh": "手臂纹身"
+    },
+    {
+        "en": "tattoo on back",
+        "zh": "背部纹身"
+    },
+    {
+        "en": "tattoo on leg",
+        "zh": "腿上的纹身"
+    },
+    {
+        "en": "tattoo on chest",
+        "zh": "胸部纹身"
+    },
+    {
+        "en": "piercing on ear",
+        "zh": "耳朵上穿孔"
+    },
+    {
+        "en": "piercing on nose",
+        "zh": "鼻子上穿孔"
+    },
+    {
+        "en": "piercing on lip",
+        "zh": "嘴唇穿孔"
+    },
+    {
+        "en": "piercing on eyebrow",
+        "zh": "眉毛上穿孔"
+    },
+    {
+        "en": "brand mark",
+        "zh": "品牌标志"
+    },
+    {
+        "en": "keloid scar",
+        "zh": "瘢痕疙瘩"
+    },
+    {
+        "en": "healed burn scar",
+        "zh": "烧伤疤痕愈合"
+    },
+    {
+        "en": "freckled face",
+        "zh": "雀斑脸"
+    },
+    {
+        "en": "sun spots",
+        "zh": "太阳黑子"
+    },
+    {
+        "en": "liver spots",
+        "zh": "肝斑"
+    }
+]

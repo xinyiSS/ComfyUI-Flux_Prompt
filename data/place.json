@@ -1,0 +1,370 @@
+[
+    {
+        "en": "indoor",
+        "zh": "室内的"
+    },
+    {
+        "en": "outdoor",
+        "zh": "户外的"
+    },
+    {
+        "en": "at night",
+        "zh": "晚上"
+    },
+    {
+        "en": "in the park",
+        "zh": "在公园里"
+    },
+    {
+        "en": "studio",
+        "zh": "工作室"
+    },
+    {
+        "en": "at a party",
+        "zh": "在聚会上"
+    },
+    {
+        "en": "at a festival",
+        "zh": "在节日里"
+    },
+    {
+        "en": "at a concert",
+        "zh": "在音乐会上"
+    },
+    {
+        "en": "on persons home planet",
+        "zh": "在人的家乡星球上"
+    },
+    {
+        "en": "magical portal with particles",
+        "zh": "带有粒子的魔法门户"
+    },
+    {
+        "en": "in a neon lit city",
+        "zh": "在霓虹闪烁的城市"
+    },
+    {
+        "en": "in a cyberpunk city",
+        "zh": "在一个赛博朋克城市"
+    },
+    {
+        "en": "in a fantasy world",
+        "zh": "在幻想世界里"
+    },
+    {
+        "en": "glamour photography",
+        "zh": "魅力摄影"
+    },
+    {
+        "en": "fashion photography",
+        "zh": "时尚摄影"
+    },
+    {
+        "en": "at home",
+        "zh": "在家里"
+    },
+    {
+        "en": "at work",
+        "zh": "在上班"
+    },
+    {
+        "en": "at a cafe",
+        "zh": "在咖啡馆"
+    },
+    {
+        "en": "at a gym",
+        "zh": "在健身房"
+    },
+    {
+        "en": "at a hotel",
+        "zh": "在酒店"
+    },
+    {
+        "en": "at a concert performance",
+        "zh": "在音乐会上"
+    },
+    {
+        "en": "at the beach",
+        "zh": "在海滩上"
+    },
+    {
+        "en": "at a museum",
+        "zh": "在博物馆"
+    },
+    {
+        "en": "in a hidden city deep in the rainforest",
+        "zh": "在雨林深处的一座隐秘城市"
+    },
+    {
+        "en": "in a floating island in the sky",
+        "zh": "在空中的浮岛上"
+    },
+    {
+        "en": "in an underground world beneath the earths surface ",
+        "zh": "在地表之下的地下世界"
+    },
+    {
+        "en": "in a secret garden hidden in a mysterious maze",
+        "zh": "在隐藏于神秘迷宫中的秘密花园里"
+    },
+    {
+        "en": "in a grand castle on the top of a remote mountain",
+        "zh": "在一座偏远山顶上的宏伟城堡里"
+    },
+    {
+        "en": "in a enchanted forest with talking animals and magical creatures",
+        "zh": "在一座有会说话的动物和神奇生物的魔法森林里"
+    },
+    {
+        "en": "in a mystical island filled with ancient ruins and hidden treasure",
+        "zh": "在一个充满古代遗迹和隐藏宝藏的神秘岛屿上"
+    },
+    {
+        "en": "in a faraway planet with a unique and alien landscape",
+        "zh": "在一个遥远的星球上，有着独特而奇异的景观"
+    },
+    {
+        "en": "in a hidden paradise hidden behind a waterfall",
+        "zh": "隐藏在瀑布后面的隐秘天堂"
+    },
+    {
+        "en": "in a dreamlike world where anything is possible and the impossible is real",
+        "zh": "在一个如梦如幻的世界里，一切皆有可能，不可能的事情都是真实的"
+    },
+    {
+        "en": "in a hidden oasis in the desert",
+        "zh": "沙漠中隐秘的绿洲"
+    },
+    {
+        "en": "in a secret underground city",
+        "zh": "在一个秘密的地下城市"
+    },
+    {
+        "en": "in an underwater kingdom",
+        "zh": "在水下王国"
+    },
+    {
+        "en": "in a lost temple in the jungle",
+        "zh": "在丛林中一座失落的寺庙里"
+    },
+    {
+        "en": "in a castle in the clouds",
+        "zh": "在云端城堡里"
+    },
+    {
+        "en": "in a hidden valley in the mountains",
+        "zh": "在山中的一个隐秘的山谷里"
+    },
+    {
+        "en": "in a uturistic city on a distant planet",
+        "zh": "在一个遥远星球上的未来城市里"
+    },
+    {
+        "en": "in a mystical land of eternal twilight",
+        "zh": "在一个永恒黄昏的神秘土地上"
+    },
+    {
+        "en": "Smoke and ash in the air",
+        "zh": "空气中弥漫着烟雾和灰烬"
+    },
+    {
+        "en": "suburban america",
+        "zh": "美国郊区"
+    },
+    {
+        "en": "suburbs",
+        "zh": "郊区"
+    },
+    {
+        "en": "slums",
+        "zh": "贫民窟"
+    },
+    {
+        "en": "at the sea",
+        "zh": "在海边"
+    },
+    {
+        "en": "at the ocean",
+        "zh": "在海洋"
+    },
+    {
+        "en": "at the lake",
+        "zh": "在湖边"
+    },
+    {
+        "en": "at the river",
+        "zh": "在河边"
+    },
+    {
+        "en": "at the waterfall",
+        "zh": "在瀑布"
+    },
+    {
+        "en": "in the labyrinth",
+        "zh": "在迷宫里"
+    },
+    {
+        "en": "in a lab",
+        "zh": "在实验室里"
+    },
+    {
+        "en": "rendered in a 2.5D isometric perspective. Soft gradients add dimension, pastel color scheme",
+        "zh": "以 2.5D 等距透视图呈现。柔和渐变增添立体感，配色方案柔和"
+    },
+    {
+        "en": "in an ancient enchanted forest",
+        "zh": "在一座古老的魔法森林里"
+    },
+    {
+        "en": "atop a floating sky island",
+        "zh": "在漂浮的天空岛上"
+    },
+    {
+        "en": "inside a crystal cavern",
+        "zh": "在水晶洞穴内"
+    },
+    {
+        "en": "beside a shimmering fairy pond",
+        "zh": "波光粼粼的仙女池旁"
+    },
+    {
+        "en": "in the ruins of a forgotten temple",
+        "zh": "在一座被遗忘的寺庙废墟中"
+    },
+    {
+        "en": "at the heart of a magical vortex",
+        "zh": "在魔法漩涡的中心"
+    },
+    {
+        "en": "on the steps of a celestial palace",
+        "zh": "天宫阶上"
+    },
+    {
+        "en": "in the lair of a mythical beast",
+        "zh": "在神话野兽的巢穴里"
+    },
+    {
+        "en": "on the shores of an eldritch sea",
+        "zh": "在神秘的海岸边"
+    },
+    {
+        "en": "within the walls of a dreamer's fortress",
+        "zh": "在梦想家堡垒的围墙内"
+    },
+    {
+        "en": "in a neon-lit back alley market",
+        "zh": "在霓虹闪烁的后巷市场"
+    },
+    {
+        "en": "atop a towering megastructure",
+        "zh": "在高耸的巨型建筑之上"
+    },
+    {
+        "en": "inside a virtual reality dive bar",
+        "zh": "在虚拟现实酒吧里"
+    },
+    {
+        "en": "beneath the city in the techno catacombs",
+        "zh": "城市地下的科技墓穴"
+    },
+    {
+        "en": "on the bustling streets of the augmented metropolis",
+        "zh": "在增强都市的繁华街道上"
+    },
+    {
+        "en": "at a clandestine hacker's hideout",
+        "zh": "在一个秘密黑客藏身处"
+    },
+    {
+        "en": "in a hover-car chase through the cityscape",
+        "zh": "在城市景观中的悬浮汽车追逐中"
+    },
+    {
+        "en": "at a black market cybernetics clinic",
+        "zh": "在黑市控制论诊所"
+    },
+    {
+        "en": "within a digital data fortress in cyberspace",
+        "zh": "在网络空间的数字数据堡垒中"
+    },
+    {
+        "en": "on a rain-soaked rooftop overlooking the neon sprawl",
+        "zh": "在雨水浸湿的屋顶上俯瞰霓虹灯的蔓延"
+    },
+    {
+        "en": "aboard a sprawling interstellar spaceship",
+        "zh": "乘坐一艘庞大的星际飞船"
+    },
+    {
+        "en": "on a distant planet's alien landscape",
+        "zh": "在遥远星球的外星景观上"
+    },
+    {
+        "en": "inside a high-tech orbital space station",
+        "zh": "高科技轨道空间站内部"
+    },
+    {
+        "en": "at a bustling galactic trade hub",
+        "zh": "在繁华的银河贸易中心"
+    },
+    {
+        "en": "within the depths of a biomechanical hive",
+        "zh": "在生物机械蜂巢深处"
+    },
+    {
+        "en": "on a terraformed Martian colony",
+        "zh": "在火星殖民地"
+    },
+    {
+        "en": "in the heart of a quantum singularity",
+        "zh": "在量子奇点的中心"
+    },
+    {
+        "en": "at a futuristic AI-controlled mega-city",
+        "zh": "未来人工智能控制的特大城市"
+    },
+    {
+        "en": "within the virtual realms of a digital utopia",
+        "zh": "在数字乌托邦的虚拟世界中"
+    },
+    {
+        "en": "on the observation deck of a cosmic observatory",
+        "zh": "在宇宙天文台的观景台上"
+    },
+    {
+        "en": "inside the belly of a gigantic jellyfish floating in space",
+        "zh": "在太空中漂浮的巨型水母的肚子里"
+    },
+    {
+        "en": "on a floating island made entirely of candy and sweets",
+        "zh": "在一个完全由糖果和甜点组成的漂浮岛上"
+    },
+    {
+        "en": "within a dimension where colors sing and sounds have taste",
+        "zh": "在一个色彩歌唱、声音有味道的维度里"
+    },
+    {
+        "en": "at a bazaar selling bottled dreams and captured starlight",
+        "zh": "在售卖瓶装梦想和星光的集市上"
+    },
+    {
+        "en": "on a roller coaster weaving through time and memories",
+        "zh": "坐上穿越时空和记忆的过山车"
+    },
+    {
+        "en": "in a library where books sprout legs and share their tales",
+        "zh": "在图书馆里，书籍长出腿并分享它们的故事"
+    },
+    {
+        "en": "on a planet where the oceans are made of liquid crystal",
+        "zh": "在一个海洋由液晶构成的星球上"
+    },
+    {
+        "en": "at a dance party hosted by interdimensional beings on the rings of Saturn",
+        "zh": "在土星环上的跨维度生物举办的舞会上"
+    },
+    {
+        "en": "on a beach where the sand is made of tiny glowing stars",
+        "zh": "沙滩上布满了闪亮的小星星"
+    }
+]
