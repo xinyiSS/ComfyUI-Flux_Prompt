@@ -1,6 +1,6 @@
 # Flux Prompt Enhance
 
-Flux Prompt Enhance 是一个用于生成高质量 Prompt 的工具，适用于 ComfyUI 环境。该项目基于 gokaygokay 和 fairy-root 的开源工作，支持在中文语境下生成更符合需求Flux 的 Prompt。
+Flux Prompt Enhance 是一个用于生成高质量 Prompt 的工具，适用于 ComfyUI 环境。该项目基于 gokaygokay 和 fairy-root 的开源工作，支持在中文语境下生成更符合需求的 Prompt。
 
 ## 模型下载与配置
 
@@ -8,7 +8,7 @@ Flux Prompt Enhance 是一个用于生成高质量 Prompt 的工具，适用于 
 
 ### 步骤 1: 新建文件夹
 
-在 `ComfyUI_windows_portable\ComfyUI\models\LLM\` 目录下新建文件夹 `Flux-Prompt-Enhance`。
+在 `ComfyUI_windows_portable\ComfyUI\models\LLM\` 目录下新建文件夹 `Flux-Prompt-Enhance`。  
 
 ### 步骤 2: 使用 Windows PowerShell 下载
 
