@@ -1,6 +1,6 @@
 # Flux Prompt Enhance
 
-Flux Prompt Enhance 是一个用于生成高质量 Prompt 的工具，适用于 ComfyUI 环境。该项目基于 gokaygokay 和 fairy-root 的开源工作，支持在中文语境下生成更符合需求的 Prompt。
+Flux Prompt Enhance 是一个用于生成高质量 Prompt 的工具，适用于 ComfyUI 环境。该项目基于 gokaygokay 和 fairy-root 的开源工作，支持在中文语境下生成更符合需求Flux 的 Prompt。
 
 ## 模型下载与配置
 
@@ -14,17 +14,18 @@ Flux Prompt Enhance 是一个用于生成高质量 Prompt 的工具，适用于 
 
 打开 Windows PowerShell，输入以下命令设置 Hugging Face 镜像站环境变量：
 
-```powershell
+```powershell  
 $env:HF_ENDPOINT = "https://hf-mirror.com"
-
+```
 接下来，使用 huggingface-cli 命令下载模型至之前创建的文件夹中：
-
-huggingface-cli download --resume-download gokaygokay/Flux-Prompt-Enhance --local-dir .\ComfyUI_windows_portable\ComfyUI\models\LLM\Flux-Prompt-Enhance
-
+```powershell    
+huggingface-cli download --resume-download gokaygokay/Flux-Prompt-Enhance --local-dir .\ComfyUI_windows_portable\ComfyUI\models\LLM\Flux-Prompt-Enhance  
+```
 请将路径 .\ComfyUI_windows_portable\ComfyUI\models\LLM\Flux-Prompt-Enhance 替换为你自己的文件夹地址。
 
-参考资源
-Flux-Prompt-Generator 源代码
-Hugging Face 模型页面
-特别感谢
+## 参考资源
+- [Flux-Prompt-Generator 源代码](https://github.com/fairy-root/Flux-Prompt-Generator)
+- [Hugging Face 模型页面](https://huggingface.co/gokaygokay/Flux-Prompt-Enhance)
+
+## 特别感谢
 感谢 gokaygokay 和 fairy-root 的开源贡献，使得此工具得以实现。
